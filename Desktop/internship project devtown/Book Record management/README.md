@@ -2,6 +2,10 @@
 
 This is a book record management API Backend for management of record and books.
 
+# API Documentation link
+
+https://documenter.getpostman.com/view/23232404/2s83zcTSNC
+
 # Routes and End point
 
 ## /users
@@ -33,7 +37,7 @@ POST: Create/add new book
 GET: Get a book by id
 PUT: update a book by id
 
-## /book/issued/by-user
+## /book/issued/by-user(books)
 
 GET: Get all isued book
 
